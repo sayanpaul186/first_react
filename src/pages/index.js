@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
  
 
 function Welcome(props) {
-	return <h1>Hello, welcome {props.name},{props.age}</h1>;
+	return <h1>Hello, How r u {props.name}{props.age}</h1>;
 	<h1>Hello, welcome </h1>;
   }
 
@@ -48,7 +48,7 @@ return (
 	 <h1><Welcome age="18" /></h1>
 	 <h1><Welcome name="Sara" /></h1>
 	 <h2><Welcome name="to our react website"/></h2>
-	<h1><Welcome name= "to React" /> </h1>
+	<h1><Welcome name= "pinaki" /> </h1>
 	</div>
 
 	

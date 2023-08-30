@@ -22,7 +22,8 @@ import ReactDOM from 'react-dom';
 const About = () => {
 return (
 	<div>
-	<h1>
+	<h1 style={{color:"red", textAlign:"center"}}>
+		 
 		GeeksforGeeks is a Computer
 		Science portal for geeks.
 	</h1>
